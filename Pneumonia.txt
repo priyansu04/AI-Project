@@ -1,0 +1,4 @@
+Disease : Pneumonia
+Symtoms : Cough with phlegm, fever, chills, shortness of breath, chest pain 
+Cause : Bacteria, viruses, fungi
+Treatment :Antibiotics, rest, fluids, oxygen therapy

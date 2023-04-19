@@ -1,0 +1,4 @@
+Disease : Polio
+Symtoms : Fever, fatigue, headache, stiffness in the neck, muscle weakness or paralysis 
+Cause : Poliovirus
+Treatment : Vaccination, supportive care, physical therapy

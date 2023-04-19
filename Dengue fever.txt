@@ -1,0 +1,4 @@
+Disease : Dengue fever
+Symtoms : Fever, severe headache, joint pain,rash, nausea, vomiting 
+Cause : Dengue virus 
+Treatment : Rest, fluids, acetaminophen

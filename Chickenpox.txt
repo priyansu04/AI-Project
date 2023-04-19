@@ -1,0 +1,4 @@
+Disease : Chickenpox
+Symtoms : Fever, itchy rash with blisters,headache, tiredness 
+Cause : Varicella-zoster virus
+Treatment : Rest, fluids, antiviral medications

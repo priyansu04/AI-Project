@@ -1,0 +1,4 @@
+Disease : Meningitis
+Symtoms : Fever, headache, neck stiffness, nausea, vomiting, sensitivity to light 
+Cause : Bacteria, viruses, fungi
+Treatment : Antibiotics, antiviral medications, rest, fluids

@@ -1,0 +1,4 @@
+Disease : Rabies
+Symtoms : Fever, headache, muscle weakness, tingling or numbness, anxiety, confusion 
+Cause : Rabies virus
+Treatment : Post-exposure prophylaxis, supportive care

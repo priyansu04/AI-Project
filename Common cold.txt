@@ -1,0 +1,4 @@
+Disease : Common cold
+Symtoms : Sneezing, runny or stuffy nose, sore throat, cough, congestion
+Cause : Rhinoviruses,coronaviruses
+Treatment : Rest, fluids, over-thecounter medications

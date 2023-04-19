@@ -1,0 +1,4 @@
+Disease :Influenza
+Symtoms :Fever, cough, sore throat, runny or stuffy nose, body aches, fatigue
+Cause :Influenza viruses
+Treatment :Rest, fluids, antiviral medications
